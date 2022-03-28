@@ -1,4 +1,4 @@
-# Programmed for Windows 10
+# Programmed for Windows 10, but adjustable for every operating system
 
 import time
 import board
