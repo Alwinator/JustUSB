@@ -1,3 +1,5 @@
+# Programmed for Windows 10
+
 import time
 import board
 import usb_hid
