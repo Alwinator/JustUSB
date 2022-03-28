@@ -19,10 +19,10 @@ You can find the 3D model on [thingiverse](https://www.thingiverse.com/thing:533
 Austrian Prices, prices in other countries are usually cheaper
 
 ## Setup
-1. Install CircitPython as decribed [here](https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython/circuitpython).
+1. Install CircitPython as described [here](https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython/circuitpython).
 2. I recommend PyCharm for programming, to upload scripts simply move them to the drive of the microcontroller
 3. Show terminal using `sudo chmod 777 /dev/ttyACM0` and `screen /dev/ttyACM0 115200` (on Ubuntu)
-4. Upload [setup.py](scripts/setup.py) and run it once, then overrite it with [keyboard.py](scripts/keyboard.py) or [rick_roll.py](scripts/rick_roll.py)
+4. Upload [setup.py](scripts/setup.py) and run it once, then overwrite it with [rick_roll.py](scripts/rick_roll.py) or [keyboard.py](scripts/keyboard.py)
 5. Done! Happy Hacking!
 
 ## Disclaimer
