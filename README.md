@@ -9,12 +9,12 @@ You can find the 3D model on [thingiverse](https://www.thingiverse.com/thing:533
 
 ### Price
 
-| Name                                                                 | Price  |
-|----------------------------------------------------------------------|--------|
-| [Waveshare RP2040-Zero](https://www.amazon.de/gp/product/B09M42BS6H) | 11.95€ |
-| [USB to USB C Adapter](https://www.amazon.de/gp/product/B09L4GXQZX)  |  9.56€ |
-| [3D Printed Case](https://www.thingiverse.com/thing:5332207)         | ~0.25€ |
-| Total                                                                | 21.76€ |
+| Name                                                                 | Amazon DE Price (Price I paid)  | AliExpress Price (longer delivery)  |
+|----------------------------------------------------------------------|-----------------|--------------------------------------|
+| [Waveshare RP2040-Zero](https://www.waveshare.com/wiki/RP2040-Zero) | [11.95€](https://www.amazon.de/gp/product/B09M42BS6H)          | [6.52€ ($6.98)](https://www.aliexpress.com/item/1005003813286792.html)|
+| USB to USB C Adapter  |  [9.56€](https://www.amazon.de/gp/product/B09L4GXQZX)          | [0.66€ ($0.60)](https://www.aliexpress.com/item/1005002069300990.html)|
+| [3D Printed Case](https://www.thingiverse.com/thing:5332207)         | ~0.25€          | ~0.25€ (0.27$) |
+| Total                                                                | 21.76€          | 7.43€  (7.85$) |
 
 Austrian Prices, prices in other countries are usually cheaper
 
