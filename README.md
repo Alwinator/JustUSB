@@ -2,6 +2,8 @@
 # Just USB
 A custom-built USB stick which registers as HID-keyboard to automatically run commands.
 
+![presentation](./images/presentation.gif)
+
 ## Assebmly
 ![assembly image](./images/assembly.jpg)
 
