@@ -2,6 +2,13 @@
 # Just USB
 A custom-built USB stick which registers as HID-keyboard to automatically run commands.
 
+[![CircuitPython](https://img.shields.io/static/v1?label=Programming%20Language&message=CircuitPython&color=%23652d90&style=for-the-badge)](https://github.com/Alwinator/JustUSB)
+[![Thingiverse](https://img.shields.io/static/v1?label=3D%20Model&message=Thingiverse&color=%230359b5&style=for-the-badge)](https://www.thingiverse.com/thing:5332207)
+[![License](https://img.shields.io/github/license/Alwinator/JustUSB?color=%23009900&style=for-the-badge)](https://github.com/Alwinator/JustUSB/blob/main/LICENSE)
+[![GitHub Repo stars](https://img.shields.io/github/stars/Alwinator/JustUSB?style=for-the-badge)](https://github.com/Alwinator/JustUSB)
+
+
+
 ![presentation](./images/presentation.gif)
 
 ## Assebmly
