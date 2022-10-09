@@ -30,8 +30,9 @@ Austrian Prices listed, prices in other countries are usually less
 ## Setup
 1. Install CircitPython as described [here](https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython/circuitpython).
 2. I recommend PyCharm for programming. To upload scripts, simply move them to the drive of the microcontroller.
-3. Show terminal using `sudo chmod 777 /dev/ttyACM0` and `screen /dev/ttyACM0 115200` (on Ubuntu)
-4. Upload [setup.py](scripts/setup.py) and run it once, then overwrite it with [rick_roll.py](scripts/rick_roll.py)
+3. - Show terminal using `sudo chmod 777 /dev/ttyACM0` and `screen /dev/ttyACM0 115200` (on Ubuntu)
+   - Show terminal using `screen /dev/tty.usbmodem2101 115200` (on macOS)
+4. Upload [setup.py](scripts/setup.py) and run it once, then overwrite it with [rick_roll.py](scripts/rick_roll.py) or [auto_password.py](scripts/auto_password.py)
 5. Done! Happy Hacking!
 
 ## Disclaimer
